@@ -17,7 +17,7 @@
     "fetch": "^1.1.0",
     "flux": "^3.1.2",
     "html-webpack-plugin": "^2.28.0",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.21",
     "lodash.clone": "^4.5.0",
     "lodash.compact": "^3.0.1",
     "lodash.delay": "^4.1.1",
